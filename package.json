@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/constants-float32-pinf",
-  "version": "0.0.7",
+  "version": "0.1.0",
   "description": "Single-precision floating-point positive infinity.",
   "license": "Apache-2.0",
   "author": {
@@ -36,12 +36,12 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/array-float32": "^0.0.6",
-    "@stdlib/array-uint32": "^0.0.6",
-    "@stdlib/utils-library-manifest": "^0.0.8"
+    "@stdlib/array-float32": "^0.1.0",
+    "@stdlib/array-uint32": "^0.1.0",
+    "@stdlib/utils-library-manifest": "^0.1.0"
   },
   "devDependencies": {
-    "@stdlib/number-ctor": "^0.0.7",
+    "@stdlib/number-ctor": "^0.1.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git"
