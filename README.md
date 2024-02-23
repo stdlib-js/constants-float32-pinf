@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT32_PINF from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-pinf@esm/index.mjs';
+import FLOAT32_PINF from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-pinf@v0.2.1-esm/index.mjs';
 ```
 
 #### FLOAT32_PINF
@@ -71,7 +71,7 @@ var bool = ( FLOAT32_PINF === Infinity );
 <body>
 <script type="module">
 
-import FLOAT32_PINF from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-pinf@esm/index.mjs';
+import FLOAT32_PINF from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-pinf@v0.2.1-esm/index.mjs';
 
 console.log( FLOAT32_PINF );
 // => Infinity
