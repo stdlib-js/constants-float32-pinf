@@ -38,7 +38,7 @@
   "dependencies": {
     "@stdlib/array-float32": "^0.2.2",
     "@stdlib/array-uint32": "^0.2.2",
-    "@stdlib/utils-library-manifest": "^0.2.2"
+    "@stdlib/utils-library-manifest": "^0.2.3"
   },
   "devDependencies": {
     "@stdlib/number-ctor": "^0.2.2",
