@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import FLOAT32_PINF from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-pinf@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/constants-float32-pinf/tags). For example,
+
+```javascript
 import FLOAT32_PINF from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-pinf@v0.2.3-deno/mod.js';
 ```
 
@@ -66,7 +71,7 @@ var bool = ( FLOAT32_PINF === Infinity );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import FLOAT32_PINF from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-pinf@v0.2.3-deno/mod.js';
+import FLOAT32_PINF from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-pinf@deno/mod.js';
 
 console.log( FLOAT32_PINF );
 // => Infinity
